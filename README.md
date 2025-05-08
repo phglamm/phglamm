@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm Trần Quốc Cường</h1>
+<h1 align="center">Hi 👋, I'm Lâm Quốc Phong</h1>
 <h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
-
-- 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
 - 👨‍💻 All of my projects are available at [github.com/phglamm](https://github.com/phglamm)
 
-- 💬 Ask me about **Java, C#**
+- 💬 Ask me about **Reactjs, React Native, Javascript**
 
-- 📫 How to reach me **phglamm@gmail.com (1-2 days to respond)**
+- 📫 How to reach me **lamphong1507@gmail.com (1-2 days to respond)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/tranquoccuong107" target="_blank">
+    <a href="https://www.facebook.com/phonglam1507" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranquoccuong107" style="height: 30px; width: 30px;" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/cuongtrandevbe" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="cuongtrandevbe" style="height: 30px; width: 30px; object-fit: cover;" />
-    </a>
 </p>
 
 
@@ -27,22 +22,6 @@
 
   <table>
     <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
-          <br>Java
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-          <br>Spring
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
-          <br>C#
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-          <br>.NET
-      </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
           <br>TypeScript
