@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/phglamm](https://github.com/phglamm)
 
-- 💬 Ask me about **Reactjs, React Native, Javascript**
+- 💬 Ask me about **Reactjs, React Native, Javascript, Typescript, Nextjs, ExpressJs, NestJs**
 
 - 📫 How to reach me **lamphong1507@gmail.com (1-2 days to respond)**
 
@@ -12,7 +12,6 @@
     <a href="https://www.facebook.com/phonglam1507" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranquoccuong107" style="height: 30px; width: 30px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -22,13 +21,21 @@
 
   <table>
     <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-          <br>TypeScript
-      </td>
-      <td align="center" width="96">
+        <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
           <br>React
+      </td>
+      <td align="center" width="96">
+          <img src="https://www.svgrepo.com/show/368858/nextjs.svg" width="48" height="48" alt="C#" />
+          <br>Nextjs      
+        </td>
+      <td align="center" width="96">
+          <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="48" height="48" alt="C#" />
+          <br>Nestjs  
+      </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          <br>TypeScript
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
@@ -37,6 +44,14 @@
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
           <br>Rest API
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
+          <br>C#
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+          <br>.NET
       </td>
     </tr>
     <tr>
@@ -57,8 +72,8 @@
           <br>Docker
       </td>
       <td align="center" width="96">
-          <img src="https://ps.w.org/redis-cache/assets/icon-128x128.gif?rev=2568513" width="48" height="48" alt="Redis" />
-          <br>Redis
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_5E3Dg1hGPCfUMJJSdsDY80KHSNmx-ORqg&s" width="48" height="48" alt="C#" />
+          <br>Nextjs  
       </td>
       <td align="center" width="96">
           <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBtaDFudHZkcjVzYnNwbDdjaXMydGZvN3c2MWljODd2d2x6Yzh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="48" height="48" alt="MongoDB" />
