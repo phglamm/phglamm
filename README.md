@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/phglamm](https://github.com/phglamm)
 
-- 💬 Ask me about **Reactjs, React Native, Javascript, Typescript, Nextjs, ExpressJs, NestJs**
+- 💬 Ask me about **Reactjs, React Native, Nextjs, NestJs, Javascript, Typescript**
 
 - 📫 How to reach me **lamphong1507@gmail.com (1-2 days to respond)**
 
