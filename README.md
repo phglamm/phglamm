@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Frontend%20Architect&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20That%20Matter&descSize=20&descAlignY=55"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+L%C3%A2m+Qu%E1%BB%91c+Phong;Frontend+Developer+%7C+React+Expert;Building+Tomorrow's+Web+Today" alt="Typing SVG" />
 </div>
 
@@ -210,8 +206,4 @@ I'm a **Frontend Developer** who transforms complex ideas into beautiful, intera
   
   **⭐ If my work inspires you, a star would mean the universe to me! ⭐**
   
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=24&fontColor=ffffff&animation=twinkling&text=Thanks%20for%20visiting!%20Let's%20create%20magic%20together%20✨&fontAlignY=75"/>
 </div>
