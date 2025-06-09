@@ -1,132 +1,144 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+L%C3%A2m+Qu%E1%BB%91c+Phong;Frontend+Developer+%7C+React+Expert;Building+Tomorrow's+Web+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey+there!+👋+I'm+Lâm+Quốc+Phong;🚀+Frontend+Architect+%7C+React+Specialist;✨+Crafting+Digital+Experiences+That+Matter" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=50&fontAlignY=40&desc=&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/🎯_PASSIONATE_FRONTEND_DEVELOPER-F85D7F?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🚀_REACT_ECOSYSTEM_EXPERT-61DAFB?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⚡_TYPESCRIPT_ENTHUSIAST-3178C6?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-
+  <img src="https://img.shields.io/badge/💫_PASSIONATE_DEVELOPER-00D4FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🎯_REACT_ECOSYSTEM_MASTER-61DAFB?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/⚡_TYPESCRIPT_ADVOCATE-3178C6?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/🌟_OPEN_TO_COLLABORATE-00FF88?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </div>
 
 ---
 
-## 🌟 **About Me**
+## 🚀 **About Me**
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="20">
+  <table border="0" cellspacing="0" cellpadding="25">
     <tr>
-      <td width="60%" align="left">
+      <td width="55%" align="left">
         
-### 🎨 **Digital Craftsman & UI Architect**
+### 🎨 **Digital Architect & Innovation Catalyst**
 
-> *"Embrace the bugs, for they teach us the value of perseverance and creativity."*
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" align="right"/>
 
-I'm a **Frontend Developer** who transforms complex ideas into beautiful, interactive digital experiences. With a passion for clean code and pixel-perfect designs, I specialize in creating scalable web applications that users love.
+> *"Code is poetry written in logic, design is emotion expressed in pixels."*
 
-**🔥 What Drives Me:**
-- Crafting seamless user experiences with modern React ecosystem
-- Building responsive, performant web applications
-- Exploring cutting-edge frontend technologies
-- Creating mobile-first solutions with React Native
-- Designing robust backend architectures with NestJS
+I'm a **Frontend Developer** passionate about transforming innovative concepts into stunning, user-centric digital experiences. My expertise lies in architecting scalable applications that seamlessly blend functionality with aesthetic excellence.
 
-**🎯 Currently:** Open for exciting projects and collaborations  
-**📍 Location:** Vietnam 🇻🇳  
-**💌 Contact:** [lamphong1507@gmail.com](mailto:lamphong1507@gmail.com)  
-**⏱️ Response Time:** 1-2 days  
+#### 🔥 **What Fuels My Passion:**
+- **🎯 User-Centric Design** → Creating intuitive, accessible experiences
+- **⚡ Performance Optimization** → Building lightning-fast applications  
+- **🛠️ Modern Architecture** → Leveraging cutting-edge tech stacks
+- **📱 Cross-Platform Solutions** → React Native & responsive web apps
+- **🔧 Robust Backend Systems** → Scalable APIs with NestJS
 
-  </td>
-  <td width="40%" align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF"/>
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=20&card_width=350" alt="GitHub Stats"/>
-  </td>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Ho_Chi_Minh_City,_Vietnam-FF6B6B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💌_lamphong1507@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⏱️_Response_Time:_24h-00C853?style=flat-square&logoColor=white"/>
+</div>
+      </td>
+      <td width="45%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
+        <br><br>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" width="100%"/>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🛠️ **Tech Stack & Expertise**
+## 🛠️ **Technology Arsenal**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180">
 </div>
 
+<details open>
+<summary><h3>🎨 Frontend Excellence</h3></summary>
 <div align="center">
-
-### **🎨 Frontend Mastery**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-</p>
-
-### **⚡ Backend & Server**
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</p>
-
-### **🗄️ Database & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
-### **🔧 Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </div>
+</details>
 
+<details open>
+<summary><h3>⚡ Backend & Infrastructure</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nestjs,nodejs,mongodb,mysql,aws,docker,git,github,figma,postman,vscode,tailwind,sass,html,css&theme=dark&perline=10" alt="Tech Icons"/>
+<br>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,mysql,aws,docker&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+</details>
+
+<details open>
+<summary><h3>🔧 Developer Tools & Workflow</h3></summary>
+<div align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
+</details>
 
 ---
 
-## 📊 **GitHub Analytics Dashboard**
+## 📊 **GitHub Analytics Hub**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
 <div align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=20&card_width=500" alt="GitHub Stats"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phglamm&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=20&langs_count=8&card_width=400" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phglamm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=GitHub%20Stats%20📈" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phglamm&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phglamm&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00D4FF&text_color=FFFFFF&border_radius=15&langs_count=10" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phglamm&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=F85D7F&dates=FFFFFF&border_radius=20&card_width=600" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phglamm&theme=radical&hide_border=true&background=1a1a2e&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF&border_radius=15" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phglamm&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=20&height=300" alt="Activity Graph"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phglamm&theme=react-dark&bg_color=1a1a2e&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity%20📊" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
 
-## 🎨 **Featured Work & Expertise**
+## 🎯 **Featured Projects & Expertise**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
@@ -134,35 +146,39 @@ I'm a **Frontend Developer** who transforms complex ideas into beautiful, intera
 
 <div align="center">
   
-  [![Explore Portfolio](https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-F85D7F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&fontSize=16)](https://github.com/phglamm)
-  
-  <br><br>
-  
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200" alt="Web Development"/>
-        <h3>🌐 Web Applications</h3>
-        <p><strong>Modern React ecosystems with Next.js, TypeScript, and responsive design</strong></p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="200" alt="Mobile Development"/>
-        <h3>📱 Mobile Solutions</h3>
-        <p><strong>Cross-platform apps with React Native and seamless user experiences</strong></p>
-      </td>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="200" alt="Backend APIs"/>
-        <h3>⚡ Backend APIs</h3>
-        <p><strong>Scalable server architectures with NestJS, Node.js, and cloud deployment</strong></p>
-      </td>
-    </tr>
-  </table>
+  [![Portfolio](https://img.shields.io/badge/🚀_EXPLORE_PORTFOLIO-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/phglamm)
+  [![Resume](https://img.shields.io/badge/📄_VIEW_RESUME-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=1a1a2e)](#)
   
 </div>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120" alt="Web Development"/>
+      <h3>🌐 Web Applications</h3>
+      <p><em>Modern React ecosystems with Next.js, TypeScript, and pixel-perfect responsive design</em></p>
+      <img src="https://img.shields.io/badge/Expertise-95%25-00D4FF?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="120" alt="Mobile Development"/>
+      <h3>📱 Mobile Solutions</h3>
+      <p><em>Cross-platform applications with React Native delivering native-like performance</em></p>
+      <img src="https://img.shields.io/badge/Expertise-90%25-00D4FF?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="120" alt="Backend APIs"/>
+      <h3>⚡ Backend Systems</h3>
+      <p><em>Scalable server architectures with NestJS, robust APIs, and cloud deployment</em></p>
+      <img src="https://img.shields.io/badge/Expertise-88%25-00D4FF?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🌟 **Let's Build Something Amazing Together**
+## 🌟 **Let's Create Something Extraordinary**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
@@ -170,40 +186,60 @@ I'm a **Frontend Developer** who transforms complex ideas into beautiful, intera
 
 <div align="center">
   
-  <h3>🚀 Ready to turn your vision into reality?</h3>
+  ### 🚀 **Ready to bring your vision to life?**
   
   <br>
   
-  [![Email](https://img.shields.io/badge/📧_lamphong1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:lamphong1507@gmail.com)
-  [![Facebook](https://img.shields.io/badge/🌐_Connect_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://www.facebook.com/phonglam1507)
-  [![GitHub](https://img.shields.io/badge/👨‍💻_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/phglamm)
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:lamphong1507@gmail.com">
+          <img src="https://img.shields.io/badge/Email-lamphong1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/phonglam1507">
+          <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/phglamm">
+          <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   
-  <br><br>
+  <br>
   
-  <img src="https://img.shields.io/badge/🇻🇳_Based_in_Vietnam-FF0000?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/⚡_1--2_Days_Response-00FF00?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/💬_English_•_Vietnamese-0080FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🇻🇳_Vietnam_Based-FF0000?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/⚡_Quick_Response-00FF00?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/💬_EN_•_VI-0080FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   
-  ### 💭 *"Great developers are not born, they are forged through challenges and continuous learning."*
+  ### 💭 *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=phglamm&label=Profile%20Views&color=F85D7F&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/phglamm?label=Followers&style=for-the-badge&color=F85D7F&labelColor=0D1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/phglamm?label=Total%20Stars&style=for-the-badge&color=F85D7F&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=phglamm&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/phglamm?label=Followers&style=for-the-badge&color=00D4FF&labelColor=1a1a2e" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/phglamm?label=Total%20Stars&style=for-the-badge&color=00D4FF&labelColor=1a1a2e" alt="Stars"/>
   
   <br><br>
   
-  **⭐ If my work inspires you, a star would mean the universe to me! ⭐**
+  **✨ If you find my work valuable, consider giving it a star! ✨**
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
 </div>
