@@ -1,21 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey+there!+👋+I'm+Lâm+Quốc+Phong;🚀+Frontend+Architect+%7C+React+Specialist;✨+Crafting+Digital+Experiences+That+Matter" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=50&fontAlignY=40&desc=&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💫_PASSIONATE_DEVELOPER-00D4FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/🎯_REACT_ECOSYSTEM_MASTER-61DAFB?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/⚡_TYPESCRIPT_ADVOCATE-3178C6?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/🌟_OPEN_TO_COLLABORATE-00FF88?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-</div>
-
----
 
 ## 🚀 **About Me**
 
@@ -220,26 +203,5 @@ I'm a **Frontend Developer** passionate about transforming innovative concepts i
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
-  
-  ### 💭 *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=phglamm&label=Profile%20Views&color=00D4FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/phglamm?label=Followers&style=for-the-badge&color=00D4FF&labelColor=1a1a2e" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/phglamm?label=Total%20Stars&style=for-the-badge&color=00D4FF&labelColor=1a1a2e" alt="Stars"/>
-  
-  <br><br>
-  
-  **✨ If you find my work valuable, consider giving it a star! ✨**
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-</div>
+
